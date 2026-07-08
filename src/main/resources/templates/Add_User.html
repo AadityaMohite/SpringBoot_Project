@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.com">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <link rel="stylesheet" href="" th:href="@{/css/Add_User.css}" />
+</head>
+
+<body>
+<a href="/services">Back to Services</a>
+<div class="addUser">
+    <h3 style="color: red;">ADD NEW USER/CUSTOMER</h3>
+    <form action="" th:action="@{/addingUser}" method="post">
+        <label>User_Name :</label>
+        <input type="text" name="uname" />
+
+        <label>User_Email :</label>
+        <input type="email" name="uemail" />
+
+        <label>User_Number :</label>
+        <input type="tel" name="unumber" pattern="[0-9]{10}" />
+
+        <label>User_Password :</label>
+        <input type="password" name="upassword" />
+
+        <button type="submit">Add_User</button>
+    </form>
+</div>
+</body>
+
+</html>
