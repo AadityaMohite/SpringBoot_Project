@@ -67,5 +67,9 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver <br>
 spring.jpa.hibernate.ddl-auto=update <br>
 server.port=2330[Optional] <br>
 
+## Workflow : 
+<img width="641" height="842" alt="image" src="https://github.com/user-attachments/assets/a96a720e-29dc-486c-8975-c0a8705fab99" />
+
+
 
 
