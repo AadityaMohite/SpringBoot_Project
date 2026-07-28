@@ -71,7 +71,8 @@ server.port=2330[Optional] <br>
 <img width="641" height="842" alt="image" src="https://github.com/user-attachments/assets/a96a720e-29dc-486c-8975-c0a8705fab99" /><br>
 
 ## Preview : 
-![Uploading image.png…]()
+<img width="1457" height="837" alt="image" src="https://github.com/user-attachments/assets/c5256d95-156f-4022-929e-b2e3cfccd2ff" />
+
 
 
 
