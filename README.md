@@ -33,6 +33,8 @@
 
 
 ## Installation :
+<img width="1343" height="573" alt="image" src="https://github.com/user-attachments/assets/56d25b34-cf01-4703-80b2-a21ae6e5f419" />
+
 
 
 1. Import the project inside STS/Eclipse : <br>
